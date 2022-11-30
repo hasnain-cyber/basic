@@ -1,0 +1,8 @@
+# VIDEO NO.
+2
+
+# TIME STAMP
+9:52
+
+# ADDITIONAL COMMENTS
+Start creating invalid syntax error.
